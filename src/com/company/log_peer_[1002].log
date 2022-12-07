@@ -1,0 +1,76 @@
+At Time: [2022-12-07T06:22:10.211491200Z]: PeerID: [1002] connected to PeerID: [1001]
+At time: [2022-12-07T06:22:10.246109Z]: Peer [1002] connected after handshake to Peer [1001]
+Time: [2022-12-07T06:22:10.297688Z]: Peer 1002 received  ‘not-accepted’ mesage from 1001
+At time: 2022-12-07T06:22:11.086507500Z]: Peer- 1002 is unchoked by 1001
+At time: [2022-12-07T06:22:11.223332900Z]: Peer - 1002  downloaded  peice -25 from - 1001. Tot Pieces is 1
+At time: [2022-12-07T06:22:11.324761400Z]: Peer - 1002  downloaded  peice -25 from - 1001. Tot Pieces is 2
+[2022-12-07T06:22:16.150933900Z]: Peer [1002] is Ckd by [1001]
+At time: 2022-12-07T06:22:16.153303100Z]: Peer- 1002 is unchoked by 1001
+At time: [2022-12-07T06:22:16.293971600Z]: Peer - 1002  downloaded  peice -22 from - 1001. Tot Pieces is 2
+At time: [2022-12-07T06:22:16.393544800Z]: Peer - 1002  downloaded  peice -27 from - 1001. Tot Pieces is 3
+At time: [2022-12-07T06:22:16.472517600Z]: Peer - 1002  downloaded  peice -7 from - 1001. Tot Pieces is 4
+At time: [2022-12-07T06:22:16.598848700Z]: Peer - 1002  downloaded  peice -5 from - 1001. Tot Pieces is 5
+At time: [2022-12-07T06:22:16.674034200Z]: Peer - 1002  downloaded  peice -30 from - 1001. Tot Pieces is 6
+At time: [2022-12-07T06:22:16.730317Z]: Peer - 1002  downloaded  peice -26 from - 1001. Tot Pieces is 7
+At time: [2022-12-07T06:22:16.791454200Z]: Peer - 1002  downloaded  peice -62 from - 1001. Tot Pieces is 8
+At time: [2022-12-07T06:22:16.859981600Z]: Peer - 1002  downloaded  peice -3 from - 1001. Tot Pieces is 9
+At time: [2022-12-07T06:22:16.915207300Z]: Peer - 1002  downloaded  peice -20 from - 1001. Tot Pieces is 10
+At time: [2022-12-07T06:22:16.973297700Z]: Peer - 1002  downloaded  peice -49 from - 1001. Tot Pieces is 11
+At time: [2022-12-07T06:22:17.032866700Z]: Peer - 1002  downloaded  peice -19 from - 1001. Tot Pieces is 12
+At time: [2022-12-07T06:22:17.098132500Z]: Peer - 1002  downloaded  peice -37 from - 1001. Tot Pieces is 13
+At time: [2022-12-07T06:22:17.157740600Z]: Peer - 1002  downloaded  peice -23 from - 1001. Tot Pieces is 14
+At time: [2022-12-07T06:22:17.213272800Z]: Peer - 1002  downloaded  peice -59 from - 1001. Tot Pieces is 15
+At time: [2022-12-07T06:22:17.275223900Z]: Peer - 1002  downloaded  peice -28 from - 1001. Tot Pieces is 16
+At time: [2022-12-07T06:22:17.331046700Z]: Peer - 1002  downloaded  peice -46 from - 1001. Tot Pieces is 17
+At time: [2022-12-07T06:22:17.393841400Z]: Peer - 1002  downloaded  peice -34 from - 1001. Tot Pieces is 18
+At time: [2022-12-07T06:22:17.447466900Z]: Peer - 1002  downloaded  peice -50 from - 1001. Tot Pieces is 19
+At time: [2022-12-07T06:22:17.500106100Z]: Peer - 1002  downloaded  peice -63 from - 1001. Tot Pieces is 20
+At time: [2022-12-07T06:22:17.573116Z]: Peer - 1002  downloaded  peice -4 from - 1001. Tot Pieces is 21
+At time: [2022-12-07T06:22:17.633104600Z]: Peer - 1002  downloaded  peice -44 from - 1001. Tot Pieces is 22
+At time: [2022-12-07T06:22:17.700842600Z]: Peer - 1002  downloaded  peice -29 from - 1001. Tot Pieces is 23
+At time: [2022-12-07T06:22:17.755120300Z]: Peer - 1002  downloaded  peice -58 from - 1001. Tot Pieces is 24
+At time: [2022-12-07T06:22:17.813735Z]: Peer - 1002  downloaded  peice -16 from - 1001. Tot Pieces is 25
+At time: [2022-12-07T06:22:17.869210200Z]: Peer - 1002  downloaded  peice -8 from - 1001. Tot Pieces is 26
+At time: [2022-12-07T06:22:17.924253800Z]: Peer - 1002  downloaded  peice -60 from - 1001. Tot Pieces is 27
+At time: [2022-12-07T06:22:17.994096700Z]: Peer - 1002  downloaded  peice -12 from - 1001. Tot Pieces is 28
+At time: [2022-12-07T06:22:18.049845800Z]: Peer - 1002  downloaded  peice -14 from - 1001. Tot Pieces is 29
+At time: [2022-12-07T06:22:18.107748900Z]: Peer - 1002  downloaded  peice -40 from - 1001. Tot Pieces is 30
+At time: [2022-12-07T06:22:18.166284300Z]: Peer - 1002  downloaded  peice -64 from - 1001. Tot Pieces is 31
+At time: [2022-12-07T06:22:18.231228500Z]: Peer - 1002  downloaded  peice -18 from - 1001. Tot Pieces is 32
+At time: [2022-12-07T06:22:18.286218800Z]: Peer - 1002  downloaded  peice -54 from - 1001. Tot Pieces is 33
+At time: [2022-12-07T06:22:18.348185200Z]: Peer - 1002  downloaded  peice -47 from - 1001. Tot Pieces is 34
+At time: [2022-12-07T06:22:18.408684Z]: Peer - 1002  downloaded  peice -45 from - 1001. Tot Pieces is 35
+At time: [2022-12-07T06:22:18.465436200Z]: Peer - 1002  downloaded  peice -17 from - 1001. Tot Pieces is 36
+At time: [2022-12-07T06:22:18.518340800Z]: Peer - 1002  downloaded  peice -15 from - 1001. Tot Pieces is 37
+At time: [2022-12-07T06:22:18.574462100Z]: Peer - 1002  downloaded  peice -0 from - 1001. Tot Pieces is 38
+At time: [2022-12-07T06:22:18.631695Z]: Peer - 1002  downloaded  peice -48 from - 1001. Tot Pieces is 39
+At time: [2022-12-07T06:22:18.684394300Z]: Peer - 1002  downloaded  peice -57 from - 1001. Tot Pieces is 40
+At time: [2022-12-07T06:22:18.748475300Z]: Peer - 1002  downloaded  peice -56 from - 1001. Tot Pieces is 41
+At time: [2022-12-07T06:22:18.817025900Z]: Peer - 1002  downloaded  peice -10 from - 1001. Tot Pieces is 42
+At time: [2022-12-07T06:22:18.871720800Z]: Peer - 1002  downloaded  peice -52 from - 1001. Tot Pieces is 43
+At time: [2022-12-07T06:22:18.931188700Z]: Peer - 1002  downloaded  peice -65 from - 1001. Tot Pieces is 44
+At time: [2022-12-07T06:22:18.985090Z]: Peer - 1002  downloaded  peice -2 from - 1001. Tot Pieces is 45
+At time: [2022-12-07T06:22:19.047648500Z]: Peer - 1002  downloaded  peice -21 from - 1001. Tot Pieces is 46
+At time: [2022-12-07T06:22:19.106310600Z]: Peer - 1002  downloaded  peice -53 from - 1001. Tot Pieces is 47
+At time: [2022-12-07T06:22:19.172769500Z]: Peer - 1002  downloaded  peice -35 from - 1001. Tot Pieces is 48
+At time: [2022-12-07T06:22:19.239197800Z]: Peer - 1002  downloaded  peice -55 from - 1001. Tot Pieces is 49
+At time: [2022-12-07T06:22:19.296808400Z]: Peer - 1002  downloaded  peice -41 from - 1001. Tot Pieces is 50
+At time: [2022-12-07T06:22:19.355478800Z]: Peer - 1002  downloaded  peice -1 from - 1001. Tot Pieces is 51
+At time: [2022-12-07T06:22:19.414799Z]: Peer - 1002  downloaded  peice -11 from - 1001. Tot Pieces is 52
+At time: [2022-12-07T06:22:19.473006600Z]: Peer - 1002  downloaded  peice -24 from - 1001. Tot Pieces is 53
+At time: [2022-12-07T06:22:19.539760600Z]: Peer - 1002  downloaded  peice -9 from - 1001. Tot Pieces is 54
+At time: [2022-12-07T06:22:19.597265100Z]: Peer - 1002  downloaded  peice -31 from - 1001. Tot Pieces is 55
+At time: [2022-12-07T06:22:19.658475600Z]: Peer - 1002  downloaded  peice -42 from - 1001. Tot Pieces is 56
+At time: [2022-12-07T06:22:19.713672500Z]: Peer - 1002  downloaded  peice -36 from - 1001. Tot Pieces is 57
+At time: [2022-12-07T06:22:19.775127700Z]: Peer - 1002  downloaded  peice -66 from - 1001. Tot Pieces is 58
+At time: [2022-12-07T06:22:19.917796200Z]: Peer - 1002  downloaded  peice -43 from - 1001. Tot Pieces is 59
+At time: [2022-12-07T06:22:19.999527600Z]: Peer - 1002  downloaded  peice -13 from - 1001. Tot Pieces is 60
+At time: [2022-12-07T06:22:20.063049600Z]: Peer - 1002  downloaded  peice -32 from - 1001. Tot Pieces is 61
+At time: [2022-12-07T06:22:20.123281200Z]: Peer - 1002  downloaded  peice -39 from - 1001. Tot Pieces is 62
+At time: [2022-12-07T06:22:20.181254100Z]: Peer - 1002  downloaded  peice -33 from - 1001. Tot Pieces is 63
+At time: [2022-12-07T06:22:20.239500Z]: Peer - 1002  downloaded  peice -38 from - 1001. Tot Pieces is 64
+At time: [2022-12-07T06:22:20.297703900Z]: Peer - 1002  downloaded  peice -61 from - 1001. Tot Pieces is 65
+At time: [2022-12-07T06:22:20.355858500Z]: Peer - 1002  downloaded  peice -51 from - 1001. Tot Pieces is 66
+At time: [2022-12-07T06:22:20.413125800Z]: Peer - 1002  downloaded  peice -6 from - 1001. Tot Pieces is 67
+At time:[2022-12-07T06:22:20.413125800Z]: Peer 1002  downloaded  complete file
+[2022-12-07T06:22:21.089170100Z]: Peer [1002] is Ckd by [1001]
